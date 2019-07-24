@@ -1,6 +1,7 @@
 # catalog-ckan
 
-The IOOS Catalog CKAN extension.  For directions on how to build using Docker, please consult the README on https://github.com/ioos/catalog-docker-base
+The IOOS Catalog CKAN extension.  For directions on how to build using Docker, please consult the README on 
+https://github.com/ROSA-SPERO/catalog-docker-base
 
 ## Features
 
